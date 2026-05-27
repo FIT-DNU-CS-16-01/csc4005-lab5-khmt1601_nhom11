@@ -115,7 +115,8 @@ image → patch embedding → positional embedding → transformer encoder → c
   - Head-only: https://wandb.ai/giangtit1007-dainam-vietnam/csc4005-lab6-mit-indoor-vit/runs/b1s4oqo0
 
 - Screenshot dashboard:
-  - [Chèn screenshot dashboard W&B]
+<img width="1856" height="915" alt="screenshot dashboard W&B" src="https://github.com/user-attachments/assets/50ddee15-5cdf-4af6-85fe-03633d3f07f8" />
+
 
 - Các hyperparameter chính:
   - model_name = vit_b_16
