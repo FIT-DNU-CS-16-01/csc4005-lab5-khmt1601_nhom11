@@ -15,8 +15,9 @@ data/*
 *.pth
 *.ckpt
 
+dataset
+
 # Outputs
-outputs/*
 !outputs/.gitkeep
 wandb/
 
