@@ -16,7 +16,7 @@ data/*
 *.ckpt
 
 # Outputs
-outputs/*
+
 !outputs/.gitkeep
 wandb/
 
